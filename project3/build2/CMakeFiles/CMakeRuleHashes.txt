@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+72c104172804a4e668e535f36e4b499c external/protos/store.pb.cc
